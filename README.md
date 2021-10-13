@@ -1,5 +1,4 @@
 ## Hi there 👋 I’m mar
-Videogame development and algorithm analysis.
 > My passions are videogames and music, I'd love to work on both of them in the future.
 I love learning about programming and specially algorithm analysis and creative programming, which I'd like to be specialized on in the future.
 - 📚 I'm currently studying videogame design and development. 
