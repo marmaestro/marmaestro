@@ -3,7 +3,7 @@
 - 📚 I'm currently studying videogame design and development. 
 - 💻 This year I'm focusing on **C++** for algotithmic analysis, **JavaScript** for web games and **SQL** for databases.
 - 🔭 Not working on anything (besides university) right now, joining a small project in the sector to gain experience would be amazing.
-- 📫 You can reach me through my personal email (marmaemom@gmail.com) or my personal twitter ([@mfalsomni](https://twitter.com/mfalsomni)) for even more informal sutff.
+- 📫 You can reach me through my personal email (marmaemom@gmail.com).
 
 <!--- - 💬 --->
 
