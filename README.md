@@ -3,7 +3,7 @@
 - 📚 I'm currently studying videogame design and development. 
 - 💻 This year I'm focusing on **C++** for algotithmic analysis, **C** and **C++** to develop NDS games, **HMTL5**, **CSS3** and **JavaScript** to develop web games and (mostly) **SQL** for databases.
 - 🔭 Not working on any projects outside of university stuff right now (that's why all my repositories are private!).
-- 📫 You can reach me through my personal email (marmaemom@gmail.com).
+- 📫 You can reach me through my personal email (marmaestromomparler@gmail.com).
 
 <!--- - 💬 --->
 
