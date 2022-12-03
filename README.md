@@ -1,11 +1,12 @@
 ## Hi there 👋 I’m Mar
 > My passions are videogames and music, I'm trying to work on both of them in the future. I love learning about programming, specially algorithm analysis and creative programming, which I'd like to be specialized on in the future.
-- 📚 I'm currently studying videogame design and development. 
-- 💻 This year I'm focusing on **C++** for algotithmic analysis, **C** and **C++** to develop NDS games, **HMTL5**, **CSS3** and **JavaScript** to develop web games and (mostly) **SQL** for databases.
+- 📚 I'm currently studying third year of videogame design and development. 
+- 💻 This year, I'm focusing on **C#** for Unity development and **C** for OS workflows.
 - 🔭 Not working on any projects outside of university stuff right now (that's why all my repositories are private!).
-- 📫 You can reach me through my personal email (marmaestromomparler@gmail.com).
+- 💬 Although, I will release some of my academic work and results from game jams I participate in on my [itch.io](https://marmaestro.itch.io).
+- 📫 You can reach me through email (marmaestromomparler@gmail.com).
 
-<!--- - 💬 --->
+<!---  --->
 
 <!---
 martamaestro/martamaestro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
