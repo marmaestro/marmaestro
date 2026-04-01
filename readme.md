@@ -6,6 +6,4 @@ My passions are videogames and music, I'm trying to work on both of them in the 
 - 💻 This year I'm pushing my personal boundaries by working with **Unity**, **Godot**, and other game engines.
 - 💬 As before, I will keep making public some relevant academic work and results from game jams I participate in on [itch.io](https://marmaestro.itch.io).
 - 📫 You can also reach me through email (contact@marmaestro.dev).
-- 📃 My portfolio is at [marmaestro.dev](https://marmaestro.dev).
--  🔭 I'm working on my bachelor's thesis, a game project currently aiming for a vertical slice. There's more info on its [itch.io](https://marmaestro.itch.io/stillilinger) page.
-
+- 📃 Also at [marmaestro.dev](https://marmaestro.dev).
